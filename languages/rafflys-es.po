@@ -1,0 +1,59 @@
+msgid "Lucky Wheel Exit Intent Pop Up, Upsell Pop Up – Rafflys"
+msgstr "Lucky Wheel Exit Intent Pop Up, Upsell Pop Up – AppSorteos"
+
+msgid "Embed your Wheel of Fortune from Rafflys directly on your WordPress site as an exit-intent popup or slider."
+msgstr "Muestra una Ruleta de Premios de AppSorteos directamente en tu WordPress, como un popup o exit-intent, y captura leads."
+
+msgid "Set up your Rafflys account to activate your first promotion"
+msgstr "Configura tu cuenta de AppSorteos para activar tu primera promoción"
+
+msgid "Create Spin the Wheel promotion in minutes"
+msgstr "Crea una promoción Ruleta de la Fortuna en minutos"
+
+msgid "Set up your Rafflys account to active your first promotion"
+msgstr "Crea tu cuenta de AppSorteos y activa tu primera promoción"
+
+msgid "Set up your Rafflys account"
+msgstr "Configura tu cuenta de AppSorteos"
+
+msgid "Already have an account? Enter your API key"
+msgstr "¿Ya tienes una cuenta? Ingresa tu clave de API"
+
+msgid "Enter your API Key"
+msgstr "Ingresa tu clave de API"
+
+msgid "You can find your API Key on your account settings or on your promotion dashboard, in the \"Share\" tab."
+msgstr "Puedes encontrar tu clave de API en la configuración de tu cuenta o en el panel de control de tu promoción, en la pestaña \"Compartir\"."
+
+msgid "Create your first Spin the Wheel promotion"
+msgstr "Crea tu primera promoción Ruleta de la Fortuna"
+
+msgid "Start now, it\'s free"
+msgstr "Comienza ahora, es gratis"
+
+msgid "Choose the promotion you want to display on this site"
+msgstr "Elige la promoción que deseas activar en este sitio"
+
+msgid "Your Fortune Wheels"
+msgstr "Tus Ruletas"
+
+msgid "Create"
+msgstr "Crear"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "View Leads"
+msgstr "Ver Leads"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "Deactivate"
+msgstr "Desactivar"
+
+msgid "Connect"
+msgstr "Conectar"
